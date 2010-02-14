@@ -1,3 +1,3 @@
 StarCraft AI OSS
 
-asdfblah
+Keerthik Omanakuttan, Arash Ushani
